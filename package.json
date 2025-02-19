@@ -8,7 +8,7 @@
       "start": "nodemon app.js"
     },
     "repository": {
-      "type": "git",
+      "type": "git"
     },
     "author": "Ahmed Alaa",
     "license": "ISC",
